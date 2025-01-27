@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-src/__init__.py
-src/example.py
-src/TutekModule.egg-info/PKG-INFO
-src/TutekModule.egg-info/SOURCES.txt
-src/TutekModule.egg-info/dependency_links.txt
-src/TutekModule.egg-info/top_level.txt
