@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="Tutek",                      # Replace with your project name
-    version="0.0.2",                        # Version of your package
+    version="0.0.3",                        # Version of your package
     author="Dawid Zadlo",
     author_email="dawidzadlo12@gmail.com",
     description="A short description of your package",

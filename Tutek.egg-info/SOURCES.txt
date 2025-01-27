@@ -3,6 +3,7 @@ README.md
 setup.py
 Tutek/__init__.py
 Tutek/example.py
+Tutek/exampleNext.py
 Tutek.egg-info/PKG-INFO
 Tutek.egg-info/SOURCES.txt
 Tutek.egg-info/dependency_links.txt
